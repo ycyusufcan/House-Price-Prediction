@@ -4,7 +4,7 @@ Data consists of house features.
 
 Firstly, handle with missing and outlier values.
 
-Secondly train different tpe of models.
+Secondly train different type of models.
 
 After that choosing the model and tune hyperparameters.
 
